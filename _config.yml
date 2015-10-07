@@ -1,0 +1,12 @@
+# Site settings
+title: Vahid Taghizadeh blog
+email: vah7id@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bloging about fast development and introduce tools for startups, founder at Camva
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vah7id.github.com/blog" # the base hostname & protocol for your site
+twitter_username: vah7id
+github_username:  vah7id
+
+# Build settings
+markdown: kramdown
