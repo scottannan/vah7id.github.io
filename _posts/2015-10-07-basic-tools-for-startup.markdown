@@ -6,7 +6,6 @@ categories: Startup
 ---
 
 
-
 ##Learn To Code :
 
 * [Code4Startup](http://code4startup.com/) Learn to Code by creating Real Life Startup projects
@@ -331,6 +330,15 @@ categories: Startup
 * [Howww.to ](http://howww.to/)Code, Design & Marketing Courses Reduced To 5sec GIF’s
 * [Primer](http://www.yourprimer.com/) Get practical advice and guide to marketing (Google)
 
+
+<br />
+
+##Hybrid Mobile Applications
+
+* [Ionic](ionicframework.com) framework for IOS versions and android versions
+* [Ionic creator](https://creator.ionic.io/) Creator makes it easy to rapidly build Ionic mobile apps
+* [Framework7](http://www.idangero.us/framework7/) framework for hybrid mobile application UI and development
+* [Genymotion](https://www.genymotion.com/) Tool for test application
 
 <br />
 
