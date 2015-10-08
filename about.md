@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+HELLO !
+My name is Vahid Taghizadeh.
+Basically, I'm just a male human being,
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'M A FRONT-END DEVELOPER
+I'm fluent with javascript and laravel.
+I also know how to translate these languages in LESS, Sass, Compass & Coffee.
+and had a lot of experience in large scale applications development in front-end with MV* frameworks such a backbonejs and angular.js. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm always looking to improve my development skills specially about javascript and designing. I often find myself concepting and designing layouts so that I have the opportunity to experiment with it in development. I love the dynamic landscape of the web, and am always captivated with the immensely creative ways in which designers and developers are shaping it.
