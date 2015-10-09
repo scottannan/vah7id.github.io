@@ -6,13 +6,17 @@
 </description>
     <link>http://vah7id.github.com/blog/</link>
     <atom:link href="http://vah7id.github.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Oct 2015 17:18:18 +0330</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2015 17:18:18 +0330</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2015 13:30:40 +0330</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2015 13:30:40 +0330</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Tools For Startups!</title>
-        <description>&lt;h2 id=&quot;learn-to-code-&quot;&gt;Learn To Code :&lt;/h2&gt;
+        <description>&lt;p&gt;I gathered this list for folks in Startup Weekend Tehran to speed up their progress by using them. I thought it might be useful to others as well.&lt;/p&gt;
+
+&lt;p&gt;Feel free to contribute on &lt;a href=&quot;https://github.com/vah7id/vah7id.github.io/blob/master/_posts/2015-10-07-basic-tools-for-startups.markdown&quot;&gt;Github&lt;/a&gt;. Hope you make something cool. Ping me if you do :)&lt;/p&gt;
+
+&lt;h2 id=&quot;learn-to-code-&quot;&gt;Learn To Code :&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://code4startup.com/&quot;&gt;Code4Startup&lt;/a&gt; Learn to Code by creating Real Life Startup projects&lt;/li&gt;

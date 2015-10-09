@@ -5,6 +5,9 @@ date:   2015-10-07 15:20:12
 categories: Startup
 ---
 
+I gathered this list for folks in Startup Weekend Tehran to speed up their progress by using them. I thought it might be useful to others as well.
+
+Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/blob/master/_posts/2015-10-07-basic-tools-for-startups.markdown). Hope you make something cool. Ping me if you do :)
 
 ##Learn To Code :
 
