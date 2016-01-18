@@ -36,6 +36,7 @@ Feel free to contribute on [Github](https://github.com/vah7id/vah7id.github.io/b
 * [HP Life](http://www.life-global.org/en/LEARN-ONLINE/HP-Life-e-Learning) Learning initiative for entrepreneurs
 * [Udemy](https://www.udemy.com/) Online Courses Anytime, Anywhere.
 * [Stanford Online Courses](http://online.stanford.edu/courses) Online Courses by Stanford University.
+* [Guides.co](http://guides.co/) Free guides on many startup topics.
 
 <br />
 
